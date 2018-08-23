@@ -1,6 +1,6 @@
 /**
- * Author: Wencheng Bao Judith Kwassieu
- * Date: 2018/08/21
+ * Author: Wencheng Bao Electronic engineer
+ * Date: 2018/08/23
  *
  * A simple hello world program in C
  *
@@ -10,7 +10,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Wencheng Bao Judith Kwassieu!\n");
+  printf("Wencheng Bao Electronic engineer!\n");
 
   return 0;
 }
