@@ -1,3 +1,3 @@
-https://github.com/jkwassieu/Hack1
-Judith Kwassieu 
-Wencheng Bao
+https://github.com/32520518/Hack1.git
+- Judith Kwassieu 
+- Wencheng Bao
